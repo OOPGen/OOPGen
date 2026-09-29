@@ -41,7 +41,7 @@ relational modelling · automated testing & CI · requirements gathering with no
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[MKLabs POS](https://pos.mklabs.co.zw)** | Live multi-user point-of-sale & inventory system: sales, stock, reporting, role-based access for owners, managers and cashiers | C#, ASP.NET Core, EF Core, React, TypeScript, PostgreSQL |
+| **[MKLabs POS](https://pos.mklabs.co.zw)** | Live multi-user point-of-sale & inventory system: sales, stock, reporting, role-based access for owners, managers and cashiers | C#, ASP.NET Core, EF Core, React, TypeScript, MySQL, offline-first PWA |
 | **[LearnCloud](https://mklabs.co.zw/products/learncloud)** | Multi-tenant school management platform: fees, attendance, timetables, exams and report cards, parent/teacher/student portals | .NET 8, ASP.NET Core, EF Core, PostgreSQL, React, Cloudflare Workers, Railway |
 | **[mklabs.co.zw](https://mklabs.co.zw)** · [source](https://github.com/OOPGen/mklabs-website) | Company website: prerendered React, structured data, strict security headers, serverless enquiry and promotions APIs | React, Vite, Tailwind, Cloudflare Pages & Functions |
 
